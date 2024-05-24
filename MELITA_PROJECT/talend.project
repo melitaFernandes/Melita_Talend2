@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xe1SQBm-Ee-i3Z3A13fjWA" label="Melita_project" description="" language="java" technicalLabel="MELITA_PROJECT" author="_xe1SQRm-Ee-i3Z3A13fjWA" productVersion="Talend Cloud Data Management Platform-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/melitaFernandes/Melita_Talend2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_xfINMBm-Ee-i3Z3A13fjWA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_xe1SQRm-Ee-i3Z3A13fjWA" login="ceric49979@trial58051.us.talend.com" firstName="Ceric" lastName="Lancaster" type="DQ"/>
+</xmi:XMI>
